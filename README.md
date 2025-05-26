@@ -1,6 +1,7 @@
 # MLAI Challenge 2025 – Deliverables
 
-**By Filippo Colella (03344)**
+**By Filippo Colella (03344), Camilla Marvaldi, Lorenzo Licini,
+Riccardo Leonetti, Parik Lanke, Jahnavi Minocha**
 
 ---
 
